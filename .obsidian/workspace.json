@@ -4,22 +4,35 @@
     "type": "split",
     "children": [
       {
-        "id": "be97c2a37ce10eb8",
+        "id": "a0891c6f07ceb0b7",
         "type": "tabs",
         "children": [
           {
-            "id": "04ba4e1228dc2679",
+            "id": "373d58d257339615",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Test Note.md",
+                "file": "DevLog 1.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "3ff132b2fcc87a36",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "LifeLink.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -65,8 +78,7 @@
               "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -86,7 +98,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Test Note.md",
+                "file": "LifeLink.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +115,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Test Note.md",
+                "file": "LifeLink.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -126,7 +138,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Test Note.md"
+                "file": "LifeLink.md"
               }
             }
           },
@@ -167,8 +179,10 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "04ba4e1228dc2679",
+  "active": "3ff132b2fcc87a36",
   "lastOpenFiles": [
+    "LifeLink.md",
+    "DevLog 1.md",
     "Test Note.md",
     "Notes",
     "Welcome.md",
@@ -199,8 +213,6 @@
     "gitobsidian/History Essay 2.md",
     "gitobsidian/HIST108 Essay 2 Notes.md",
     "gitobsidian/Godot Notes.md",
-    "gitobsidian/Gender and Identity in Video Games.md",
-    "gitobsidian/Games as work.md",
     "gitobsidian/Video Games Theory and Culture",
     "gitobsidian/The Rise and the Fall of the USA",
     "gitobsidian/Machine Learning",
