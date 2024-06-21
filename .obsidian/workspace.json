@@ -1,0 +1,209 @@
+{
+  "main": {
+    "id": "6ccfa8fecdd466ea",
+    "type": "split",
+    "children": [
+      {
+        "id": "be97c2a37ce10eb8",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "04ba4e1228dc2679",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "084fdaa359f73069",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cb840b827b965d0",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c8a161d5d2381a59",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "99453b48d1fa2973",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "9fbe468b56c2566f",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "168cc7aaa5e08880",
+    "type": "split",
+    "children": [
+      {
+        "id": "1cf5053f8190e7ff",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6117accd0c74e7f7",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "00d177c47536c660",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "180e707a3f30ff6a",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "287289c9ed09c477",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {}
+            }
+          },
+          {
+            "id": "ab49b334335aeac2",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "558db38d4f3cb9e7",
+            "type": "leaf",
+            "state": {
+              "type": "todo",
+              "state": {}
+            }
+          }
+        ],
+        "currentTab": 5
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "04ba4e1228dc2679",
+  "lastOpenFiles": [
+    "Notes",
+    "Welcome.md",
+    "Video Game Paper.md",
+    "gitobsidian/Violence and Morality in Games.md",
+    "gitobsidian/Video Game Paper.md",
+    "gitobsidian/Victorian England.md",
+    "gitobsidian/Twine.md",
+    "gitobsidian/Support Vector Machine.md",
+    "gitobsidian/Romanticism in Europe.md",
+    "gitobsidian/Realism in France.md",
+    "gitobsidian/Procedural Rhetoric.md",
+    "gitobsidian/Performance metrics.md",
+    "gitobsidian/Pasted image 20240411212455.png",
+    "gitobsidian/Pasted image 20240411211903.png",
+    "gitobsidian/Pasted image 20240411211708.png",
+    "gitobsidian/Pasted image 20240401000838.png",
+    "gitobsidian/Pasted image 20240328132523.png",
+    "gitobsidian/Noisy Data.md",
+    "gitobsidian/Neural Networks.md",
+    "gitobsidian/Neo-Classicism in France.md",
+    "gitobsidian/Missing Values.md",
+    "gitobsidian/K Nearest Neighbor.md",
+    "gitobsidian/Impressionism.md",
+    "gitobsidian/Identity.md",
+    "gitobsidian/History108 essay 1 prep.md",
+    "gitobsidian/History Paper 3.md",
+    "gitobsidian/History Essay 2.md",
+    "gitobsidian/HIST108 Essay 2 Notes.md",
+    "gitobsidian/Godot Notes.md",
+    "gitobsidian/Gender and Identity in Video Games.md",
+    "gitobsidian/Games as work.md",
+    "gitobsidian/Video Games Theory and Culture",
+    "gitobsidian/The Rise and the Fall of the USA",
+    "gitobsidian/Machine Learning",
+    "gitobsidian/Leonardo to Warhol",
+    "gitobsidian/Images/Pasted image 20240313143948.png",
+    "gitobsidian/Images/Pasted image 20240313144306.png",
+    "gitobsidian/Images/Pasted image 20240313143932.png",
+    "gitobsidian/Images/Pasted image 20240313143839.png",
+    "gitobsidian/Images/Pasted image 20240313143455.png",
+    "gitobsidian/Images",
+    "gitobsidian",
+    "Untitled.canvas",
+    "Leonardo to Warhol/Untitled",
+    "Video Games Theory and Culture",
+    "Images",
+    "The Rise and the Fall of the USA"
+  ]
+}
