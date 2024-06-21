@@ -11,8 +11,12 @@
             "id": "04ba4e1228dc2679",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "Test Note.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
         ]
@@ -82,6 +86,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "Test Note.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -98,6 +103,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "Test Note.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -119,7 +125,9 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "Test Note.md"
+              }
             }
           },
           {
@@ -153,11 +161,15 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "obsidian-leaflet-plugin:Open Leaflet Map": false,
+      "obsidian-excalidraw-plugin:Create new drawing": false,
+      "obsidian-kanban:Create new board": false
     }
   },
   "active": "04ba4e1228dc2679",
   "lastOpenFiles": [
+    "Test Note.md",
     "Notes",
     "Welcome.md",
     "Video Game Paper.md",
@@ -203,7 +215,6 @@
     "Untitled.canvas",
     "Leonardo to Warhol/Untitled",
     "Video Games Theory and Culture",
-    "Images",
-    "The Rise and the Fall of the USA"
+    "Images"
   ]
 }
