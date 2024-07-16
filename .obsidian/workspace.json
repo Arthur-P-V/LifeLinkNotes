@@ -25,7 +25,19 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "LifeLink.md",
+                "file": "Multiplayer.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "95747b83b2b19665",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Story.md",
                 "mode": "source",
                 "source": false
               }
@@ -98,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "LifeLink.md",
+                "file": "Multiplayer.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "LifeLink.md",
+                "file": "Multiplayer.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -138,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "LifeLink.md"
+                "file": "Multiplayer.md"
               }
             }
           },
@@ -182,10 +194,15 @@
   "active": "3ff132b2fcc87a36",
   "lastOpenFiles": [
     "LifeLink.md",
+    "Multiplayer.md",
     "DevLog 1.md",
+    "Dailies and Devlogs.md",
+    "2024-07-16.md",
+    "Story.md",
+    "World.md",
     "Test Note.md",
-    "Notes",
     "Welcome.md",
+    "Notes",
     "Video Game Paper.md",
     "gitobsidian/Violence and Morality in Games.md",
     "gitobsidian/Video Game Paper.md",
@@ -208,11 +225,6 @@
     "gitobsidian/K Nearest Neighbor.md",
     "gitobsidian/Impressionism.md",
     "gitobsidian/Identity.md",
-    "gitobsidian/History108 essay 1 prep.md",
-    "gitobsidian/History Paper 3.md",
-    "gitobsidian/History Essay 2.md",
-    "gitobsidian/HIST108 Essay 2 Notes.md",
-    "gitobsidian/Godot Notes.md",
     "gitobsidian/Video Games Theory and Culture",
     "gitobsidian/The Rise and the Fall of the USA",
     "gitobsidian/Machine Learning",
