@@ -25,7 +25,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Multiplayer.md",
+                "file": "2024-07-30.md",
                 "mode": "source",
                 "source": false
               }
@@ -37,14 +37,14 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Story.md",
+                "file": "2024-08-01.md",
                 "mode": "source",
                 "source": false
               }
             }
           }
         ],
-        "currentTab": 1
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Multiplayer.md",
+                "file": "2024-08-01.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Multiplayer.md",
+                "file": "2024-08-01.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Multiplayer.md"
+                "file": "2024-08-01.md"
               }
             }
           },
@@ -191,14 +191,16 @@
       "obsidian-excalidraw-plugin:Create new drawing": false
     }
   },
-  "active": "3ff132b2fcc87a36",
+  "active": "95747b83b2b19665",
   "lastOpenFiles": [
-    "LifeLink.md",
-    "Multiplayer.md",
-    "DevLog 1.md",
     "Dailies and Devlogs.md",
-    "2024-07-16.md",
+    "2024-07-30.md",
+    "2024-08-01.md",
     "Story.md",
+    "Multiplayer.md",
+    "LifeLink.md",
+    "DevLog 1.md",
+    "2024-07-16.md",
     "World.md",
     "Test Note.md",
     "Welcome.md",
@@ -223,8 +225,6 @@
     "gitobsidian/Neo-Classicism in France.md",
     "gitobsidian/Missing Values.md",
     "gitobsidian/K Nearest Neighbor.md",
-    "gitobsidian/Impressionism.md",
-    "gitobsidian/Identity.md",
     "gitobsidian/Video Games Theory and Culture",
     "gitobsidian/The Rise and the Fall of the USA",
     "gitobsidian/Machine Learning",
